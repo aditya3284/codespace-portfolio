@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "https://unsplash.com/photos/a-long-boat-with-two-people-in-it-on-a-lake-SgyH_Ix9lNE";
+import image from "../images/boat.jpg";
 
 const imageAltText = "Viking ship in Norway";
 

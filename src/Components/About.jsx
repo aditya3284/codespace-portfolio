@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "https://unsplash.com/photos/blue-and-orange-abstract-painting-yn97LNy0bao";
+import image from "../images/pattern.jpg";
 
 const imageAltText = "Grey and yellow abstract background";
 
