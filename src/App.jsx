@@ -27,12 +27,12 @@ const siteProps = {
   name: "Ragnar Lothbrok",
   title: "Amor Fati",
   email: "ragnar@vikingland.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "obsidianmd",
+  instagram: "roman_regiens",
+  linkedIn: "bidenjoe",
   medium: "",
-  twitter: "microsoft",
-  youTube: "no biolerplate",
+  twitter: "ElonMusk",
+  youTube: "no_biolerplate",
 };
 
 const primaryColor = "#4E567E";
